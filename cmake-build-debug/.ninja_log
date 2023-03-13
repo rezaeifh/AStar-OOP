@@ -1,0 +1,24 @@
+# ninja log v5
+330	7677	6995777263926061	CMakeFiles/main.dir/main.cpp.obj	da736f9db5875b79
+5	225	6995780153284779	build.ninja	b6a7ef77fc8c526a
+36	19038	6995777377621461	CMakeFiles/a-star.dir/source/AStar.cpp.obj	4dac7b6d45e02c12
+75	14527	6995777332071084	CMakeFiles/a-star.dir/source/Euclidean.cpp.obj	878f13f52292b16d
+19892	23210	6995777419002917	main.exe	88dcd022f21b710c
+19040	19891	6995777386265040	liba-star.a	3a8fad9717eb3745
+99	14523	6995777332130920	CMakeFiles/a-star.dir/source/Manhattan.cpp.obj	7f963d8e37acfaab
+146	14699	6995777333969952	CMakeFiles/a-star.dir/source/Octagonal.cpp.obj	453bbe471ae46e60
+216	15128	6995777338402149	CMakeFiles/a-star.dir/source/Diagonal.cpp.obj	1f6ebdbf76af847
+203	4755	6995780325918174	CMakeFiles/main.dir/main.cpp.obj	15e3c8870ab64bbf
+24	8806	6995780367024154	CMakeFiles/a-star.dir/source/Euclidean.cpp.obj	1759777af1fedb47
+81	8950	6995780368186342	CMakeFiles/a-star.dir/source/Diagonal.cpp.obj	958fee1aa5af099a
+134	9073	6995780369743046	CMakeFiles/a-star.dir/source/Manhattan.cpp.obj	8febae573f8e80f5
+103	9102	6995780369992422	CMakeFiles/a-star.dir/source/Octagonal.cpp.obj	9252c45eb2df0514
+54	11531	6995780394290169	CMakeFiles/a-star.dir/source/AStar.cpp.obj	dcd0a0689e28d06d
+11533	12172	6995780400783540	liba-star.a	3a8fad9717eb3745
+12173	15420	6995780432956092	main.exe	88dcd022f21b710c
+15	5131	6995860251958929	CMakeFiles/a-star.dir/source/Euclidean.cpp.obj	1759777af1fedb47
+5134	5923	6995860259913770	liba-star.a	3a8fad9717eb3745
+5924	9186	6995860292184781	main.exe	88dcd022f21b710c
+17	5197	6995865082813094	CMakeFiles/a-star.dir/source/Euclidean.cpp.obj	1759777af1fedb47
+5200	5823	6995865089105195	liba-star.a	3a8fad9717eb3745
+5823	8609	6995865116706281	main.exe	88dcd022f21b710c
