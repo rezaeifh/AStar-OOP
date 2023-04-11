@@ -87,3 +87,6 @@ The trace of the path is shown below (0 is obstacle cells, 1 is unoccupied cells
 1 1 1 1 1 1 1 1 1 
 ```
 First it shows how exactly robot needs to move. In other words, it shows both the cells occupied with the robot and its rotation as a separate action. As an example, at the start, robot wants to change its direction toward west so it rotates from in its current location (2,4,East) to (2,4,West). The output also contains the full map of the path planning (0 is obstacle cells, 1 is unoccupied cells, 2 is the start cell, 3 is the goal cell, and 4 are cells on the trace between the start and goal).
+
+To learn more you can watch the video below:
+[![turtlesim_football without goalkeeper](https://img.youtube.com/vi/zNnZtOcIQrU/sddefault.jpg)](https://youtu.be/zNnZtOcIQrU)
